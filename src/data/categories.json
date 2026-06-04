@@ -1,0 +1,42 @@
+[
+  {
+    "id": "at6p3rob7lhttqj",
+    "name": "Clothing",
+    "description": "Apparel and clothing items"
+  },
+  {
+    "id": "0k4zil1c5g4055z",
+    "name": "Footwear",
+    "description": "Shoes and footwear"
+  },
+  {
+    "id": "hl6iyurn22hxk27",
+    "name": "Bags & Luggage",
+    "description": "Bags, backpacks, and luggage"
+  },
+  {
+    "id": "8wkhbrgvu2j3z2k",
+    "name": "Sports & Outdoors",
+    "description": "Sports equipment and outdoor gear"
+  },
+  {
+    "id": "pzqvh5ogp53kvpd",
+    "name": "Kids clothing",
+    "description": ""
+  },
+  {
+    "id": "eeg76oru69bghii",
+    "name": "Kids Shoes",
+    "description": "Designed for active little feet, our kids’ shoe collection combines comfort, durability, and style in every step. From playground-ready sneakers to casual everyday wear, each pair is crafted with soft materials, secure fits, and vibrant designs kids love. Built to support growing feet, these shoes are perfect for every adventure—big or small."
+  },
+  {
+    "id": "wp118yf6waexp9u",
+    "name": "Women shoes",
+    "description": "Our women’s shoes are crafted to deliver the perfect blend of comfort, elegance, and durability. Designed with quality materials and attention to detail, each pair offers a secure fit and lasting support—ideal for everyday wear or special occasions."
+  },
+  {
+    "id": "ssdxdu95tuczhoc",
+    "name": "Basketball Shoes",
+    "description": "Our basketball shoes are designed for\nperformance, comfort, and durability on and off\nthe court. Built with responsive cushioning\nstrong grip, and supportive structure, they help\nenhance stability, speed, and control during\nevery game."
+  }
+]
